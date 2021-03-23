@@ -10,6 +10,7 @@ Durant ce bootcamp, j'ai pu travailler sur deux sites :
 Je suis à la recherche d'un poste de développeur full stack junior, si vous êtes intéressé, n'hésitez pas à me contacter :
 dandre.ben@gmail.com
 
+Vous pouvez consulter mes projets sur la page suivante : https://bendndr.github.io/
 
 <!--
 **BenDndr/BenDndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
