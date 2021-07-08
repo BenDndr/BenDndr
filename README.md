@@ -11,6 +11,7 @@ J'ai également à titre personnel travaillé sur de petites applis web pour m'e
 - https://bendndr.com/DrumJs/
 - http://www.beltran-ma.fr
 - https://test-embershop.herokuapp.com/
+- http://bendndr.com/react-tm/
 
 Je suis à la recherche d'un poste de développeur full stack ou front-end junior, si vous êtes intéressé, n'hésitez pas à me contacter :
 dandre.ben@gmail.com
