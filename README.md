@@ -1,5 +1,3 @@
-Bonjour,
-
 Je m'appelle Benjamin, j'ai 28 ans et je suis un passionné de nouvelles technologie et de code !
 
 Je viens de terminer le Bootcamp Le Wagon Bordeaux ou j'ai pu apprendre les prémices du développement web.
