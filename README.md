@@ -14,7 +14,7 @@ J'ai également à titre personnel travaillé sur de petites applis web pour m'e
 Je suis à la recherche d'un poste de développeur full stack ou front-end junior, si vous êtes intéressé, n'hésitez pas à me contacter :
 dandre.ben@gmail.com
 
-Vous pouvez consulter mes projets sur la page suivante : https://bendndr.github.io/
+Vous pouvez consulter mes projets sur la page suivante : https://bendndr.com/portfolio/
 
 <!--
 **BenDndr/BenDndr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
