@@ -1,6 +1,6 @@
-Je m'appelle Benjamin, j'ai 29 ans et je suis un passionné de nouvelles technologie et de code !
+Je m'appelle Benjamin, j'ai 29 ans et je suis un passionné de nouvelles technologies et de code !
 
-Je viens de terminer le Bootcamp Le Wagon Bordeaux ou j'ai pu apprendre les prémices du développement web.
+Je viens de terminer le Bootcamp Le Wagon Bordeaux ou j'ai pu apprendre le développement web.
 Durant ce bootcamp, j'ai pu travailler sur deux sites :
 - https://coach-seeker.herokuapp.com/
 - https://www.dare-to-go.com/ (Le site rencontre acutellement des problèmes techniques mais vous pouvez voir la présentation que j'ai effectuée sur ce lien : http://www.youtube.com/watch?v=n78u5LzYeWg&t=5m40s)
